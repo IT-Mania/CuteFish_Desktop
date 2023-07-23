@@ -6,6 +6,10 @@ sudo wget https://raw.githubusercontent.com/IT-mania/CuteFish_Desktop/master/cut
 
 sudo dnf update --refresh --repo cutefish-desktop
 
-sudo dnf install cutefish-* fishui-* libcutefish sddm-theme-cutefish
+sudo dnf install cutefish-desktop cutefish-screenshot fishui-devel fishui libcutefish cutefish-videoplayer
+
+If you want to change the graphical login screen to Cutefish, install the sddm-theme-cutefish package.
+
+sudo dnf install sddm-theme-cutefish
 
 Done! Enjoy!
