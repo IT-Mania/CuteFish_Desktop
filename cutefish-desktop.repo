@@ -1,4 +1,4 @@
-[ps4-Cutefish_desktop]
+[cutefish_desktop]
 name=ps4-Cutefish_desktop
 baseurl=https://raw.githubusercontent.com/IT-mania/CuteFish_Desktop/master/x86_64
 enabled=1
